@@ -3,11 +3,11 @@
     <div
       class="flex flex-col w-[80%] justify-center items-center pt-10 mx-auto uppercase"
     >
-      <h1 class="text-4xl pb-12 font-bold text-rose-800 underline decoration-4">
+      <h1 class="text-4xl pb-12 font-bold text-cyan-50 underline decoration-3">
         Colour Picker Game
       </h1>
 
-      <div class="py-7 font-bold text-2xl">{{ message }}</div>
+      <div class="py-7 font-bold text-2xl text-cyan-50">{{ message }}</div>
 
       <div>
         <button
